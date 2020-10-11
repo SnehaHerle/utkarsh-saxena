@@ -13,16 +13,16 @@ function App() {
     
     <BrowserRouter>
         <Navbar/>
-        <Route exact path = "/">
+        <Route exact path = "/utkarsh-saxena">
           <About />
         </Route>
-        <Route path = "/about">
+        <Route exact path = "/about">
           <About />
         </Route>
-        <Route path = "/story">
+        <Route exact path = "/story">
           <Story />
         </Route>
-        <Route path = "/inspiration">
+        <Route exact path = "/inspiration">
           <Inspiration />
         </Route>
         <br></br>
