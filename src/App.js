@@ -11,7 +11,7 @@ import Footer from '../src/components/screens/Footer'
 function App() {
   return (
     
-    <HashRouter>
+    <BroswerRouter>
         <Navbar/>
         <Route exact path = "/">
           <About />
@@ -29,7 +29,7 @@ function App() {
         <br></br>
         <Footer />
 
-    </HashRouter>
+    </BrowserRouter>
 
 
   );
