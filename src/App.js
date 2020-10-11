@@ -16,7 +16,7 @@ function App() {
     
     <BrowserRouter basename = {process.env.PUBLIC_URL}>
         <Navbar/>
-        <Route exact path = "/utkarsh-saxena">
+        <Route exact path = "/">
           <About />
         </Route>
         <Route exact path = "/about">
