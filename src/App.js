@@ -11,7 +11,7 @@ import Footer from '../src/components/screens/Footer'
 function App() {
   return (
     
-    <BroswerRouter>
+    <BrowserRouter>
         <Navbar/>
         <Route exact path = "/">
           <About />
