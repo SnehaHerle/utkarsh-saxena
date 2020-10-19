@@ -29,6 +29,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Deployment on Surge`
+
 As the React app contains <BrowserRouter>, it is a bit complex to deploy the App on GitHub pages. I used Surge instead.
   
 Follow this link to host on Surge: https://medium.com/@Jeff_Duke_io/how-to-deploy-an-app-using-react-and-react-router4-fe5f02a27a97
