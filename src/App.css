@@ -31,3 +31,17 @@ html{
     color:#e53935;
 }
 
+figure {
+    
+    padding: 4px;
+    margin: auto;
+  }
+  
+  figcaption {
+    
+    color: white;
+    font-size: small;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }

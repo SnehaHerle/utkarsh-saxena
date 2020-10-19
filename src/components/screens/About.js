@@ -9,13 +9,13 @@ const About = () =>{
                 <br></br>
                 <br></br>
                 <br></br>
-                <img class="container__image" 
-                src="https://scontent.fnag5-1.fna.fbcdn.net/v/t1.0-9/51801920_2585629301453657_1200675278876049408_n.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_ohc=PxtDWlRGGSEAX8-TmUB&_nc_ht=scontent.fnag5-1.fna&oh=314b0ddd3227599e7acbc51a998b1b3d&oe=5FA12DB1"/>
+                <img class="container__image" alt="Loading"
+                src="https://lh3.googleusercontent.com/-5-gSJ0Mos-81cBhLxYP4VUeZbnleYr_JrvA8XyIZ2TY6VKLW-xEGBASloL4jFXXPwkkUSeeWqoSnMCdqRH1yvjrAe8UX5v2qr7DcGt1dxF5beZblZs9LSihHoyXoL6-sXShq20NY7jhHS6nMl6sNB84jVvwy2JV8D2QfwD6nyvxLJN86lraeU0Vi5zFsGSHF6u5KleviieFeSoEhBLYH9EFXgDEg6Q7CBowAW1kkqSuXPLyQZvvQb1Oy1Xe2xA_68WMIuoRcoFKJy7F57V679m8Jg0k2yFs2wy2tBtOiAhKfIs89MorEm8-3WbhtVbCJt3x0TXZilgy-eeTZhXhKVbkdA9MQXcI0ObuYv8lBoi3GwhmHnDYvcUaWF7DrSGByF82tve06oU1QE5Za-ZjFnheaQ6YDReLPd3pqU9gHbEzHx7jCTo8wUrD6YaQs3MyVZ25p5oOv4jzJOzxbhHPnjERcxX98fjQSFYC4t_yuVY3bNThqjKjMYL7Eec-K3RTAG9EFXUtW-wyCM3NL6StMI9h8PETqYvJ6SlbD-LAcCBkaPl_N32QAW9CB2HrnRDRGlHxheAv_rgpevBezFy2Bt4x-0eXSGebZn2-mk0cNolCzkAzLR6vRYx4Pb32dkWmSZmtLPT4FLrvglul-w1Ut6H0eriUGb5cBUawFGRungT7-FaOsvQC4G1uGE8dJw=s395-no?authuser=0"/>
                 <div class="container__text">
-                    <h5><span className="word">Hi</span>! Meet <span className="word">Utkarsh</span>!</h5>
+                    <h5><span className="word">Hi,</span> meet <span className="word">Utkarsh!</span></h5>
  <br></br>                   
 <p>
-He's an awesome <span className="word">25-year-old</span> from <span className="word">Bhopal</span> whom you'll always find hustling and trying out new things proactively. Someone who is always in for a conversation about the latest happenings in the <span className="word">startups' scene</span>, you'll eventually end up learning something new from him.    
+He's an awesome <span className="word">25-year-old</span> from <span className="word">Bhopal</span> whom you'll always find hustling and trying out new things proactively. Someone who is always in for a conversation about the latest happenings in the <span className="word">startups' scene</span>, you'll eventually end up learning something new from him. He dreams to be an <span className="word">entrepreneur</span> someday.   
 </p>
 
 <p>
@@ -53,6 +53,7 @@ He's constantly <span className="word">learning and getting better</span> every 
 <p style={{"fontStyle":"italic", "color":"teal", fontWeight:"bold"}}>
 Click on the Story tab on top to read more...
 </p>
+
 
                     
 
